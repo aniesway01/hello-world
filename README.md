@@ -1,2 +1,6 @@
 # hello-world
-the first repository
+make a branch
+
+The tutorial of github
+
+still learning
